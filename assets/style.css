@@ -1,15 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 body {
-    font-family: 'Bitter' , sans-serif;
+    font-family: 'Poppins' , sans-serif;
 }
 
 #home {
-    background-image:  ;
+    background-image: url();
     width: 100%;
     background-size: cover;
     display: flex;
     flex-direction: column;
+    background-position-x: 80px;
+    background-position-y: 90px;
     justify-content: center;
+    align-items: flex-start;
 
 }
